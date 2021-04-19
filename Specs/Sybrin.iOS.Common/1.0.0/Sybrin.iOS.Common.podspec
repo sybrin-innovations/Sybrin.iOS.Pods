@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.authors           = { "Innovations" => "innovations@sybrin.com" }
   s.license           = { :type => 'Copyright', :text => 'Copyright © 2020 Sybrin Systems' }
   s.homepage          = "https://ai.sybrin.com/"
-  s.source            = { :git => "https://github.com/sybrin-innovations/Sybrin.iOS.Common.git", :tag => s.version }
+  s.source            = { :git => "https://github.com/sybrin-innovations/Sybrin.iOS.SDK.Common.git", :tag => s.version }
   s.summary           = "Sybrin common utilities used to assist our SDKs"
   # s.documentation_url = ''
 
