@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.module_name       = 'sybrin_ios_biometrics'
 
 s.dependency 'GoogleMLKit/FaceDetection','~> 2.1.0'
-s.dependency 'Sybrin.iOS.Common','~> 3.1.0'
+s.dependency 'Sybrin.iOS.Common','~> 3.1.3'
 end
