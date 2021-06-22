@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
 s.dependency 'GoogleMLKit/BarcodeScanning','~> 2.1.0'
 s.dependency 'GoogleMLKit/FaceDetection','~> 2.1.0'
 s.dependency 'GoogleMLKit/TextRecognition','~> 2.1.0'
-s.dependency 'Sybrin.iOS.Common','~> 3.1.0'
+s.dependency 'Sybrin.iOS.Common','~> 3.1.3'
 end
