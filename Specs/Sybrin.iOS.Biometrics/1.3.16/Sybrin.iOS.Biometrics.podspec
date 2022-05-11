@@ -17,6 +17,4 @@ Pod::Spec.new do |s|
 
 s.dependency 'GoogleMLKit/FaceDetection','~> 2.1.0'
 s.dependency 'Sybrin.iOS.Common','~> 5.2.16'
-s.dependency '(=','~> = 2.3.1'
-s.dependency '5.2.16)','~> 5.2.16'
 end
