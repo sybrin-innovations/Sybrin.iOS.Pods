@@ -19,6 +19,4 @@ s.dependency 'GoogleMLKit/BarcodeScanning','~> 2.1.0'
 s.dependency 'GoogleMLKit/FaceDetection','~> 2.1.0'
 s.dependency 'GoogleMLKit/TextRecognition','~> 2.1.0'
 s.dependency 'Sybrin.iOS.Common','~> 5.2.15'
-s.dependency '(=','~> = 2.3.1'
-s.dependency '5.2.15)','~> 5.2.15'
 end
