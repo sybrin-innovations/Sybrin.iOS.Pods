@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name              = "Sybrin.iOS.Identity"
-  s.version           = "1.12.12"
+  s.version           = "1.12.9"
   s.authors           = { "Innovations" => "innovations@sybrin.com" }
   s.license           = { :type => 'Copyright', :text => 'Copyright © 2020 Sybrin Systems' }
   s.homepage          = "https://ai.sybrin.com/"
