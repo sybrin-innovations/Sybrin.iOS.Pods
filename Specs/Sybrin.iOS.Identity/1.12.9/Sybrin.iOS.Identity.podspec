@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.authors           = { "Innovations" => "innovations@sybrin.com" }
   s.license           = { :type => 'Copyright', :text => 'Copyright © 2020 Sybrin Systems' }
   s.homepage          = "https://ai.sybrin.com/"
-  s.source            = { :git => "https://github.com/sybrin-innovations/Sybrin.iOS.SDK.Identity_Bitcode.git", :tag => s.version }
+  s.source            = { :git => "https://github.com/sybrin-innovations/Sybrin.iOS.SDK.Identity.git", :tag => s.version }
   s.summary           = "Sybrin Identity SDK, capture Green Book ID, ID Card or Passports"
   # s.documentation_url = ''
 
