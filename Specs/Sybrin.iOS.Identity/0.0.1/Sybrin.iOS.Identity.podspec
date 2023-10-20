@@ -1,11 +1,11 @@
 #Dummy pod spec file to get src url
 Pod::Spec.new do |s|
   s.name              = "Sybrin.iOS.Identity"
-  s.version           = "1.12.19"
+  s.version           = "version_place_holder"
   s.authors           = { "Innovations" => "innovations@sybrin.com" }
   s.license           = { :type => 'Copyright', :text => 'Copyright © 2020 Sybrin Systems' }
   s.homepage          = "https://ai.sybrin.com/"
-  s.source            = { :git => "https://github.com/sybrin-innovations/Sybrin.iOS.SDK.Identity.git", :tag => s.version }
+  s.source            = { :git => "src_url_place_holder", :tag => s.version }
   s.source_files      = "Sybrin.iOS.Identity/**/*.{swift,lproj,strings}"
   s.summary           = "Sybrin Identity SDK, capture Green Book ID, ID Card or Passports"
   # s.documentation_url = ''
