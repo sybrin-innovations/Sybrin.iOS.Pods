@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'Sybrin_iOS_Biometrics.framework'
   s.module_name       = 'sybrin_ios_biometrics'
 
-s.dependency 'GoogleMLKit/FaceDetection','~> 2.0.0'
+s.dependency 'GoogleMLKit/FaceDetection','~> 3.2.0'
 s.dependency 'OpenCV','~> 4.0.0'
 s.dependency 'Sybrin.iOS.Common','5.2.25'
 end
