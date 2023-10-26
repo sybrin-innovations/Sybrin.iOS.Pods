@@ -17,8 +17,8 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'Sybrin_iOS_Identity.framework'
   s.module_name       = 'sybrin_ios_identity'
 
-s.dependency 'GoogleMLKit/BarcodeScanning','~> 2.0.0'
-s.dependency 'GoogleMLKit/FaceDetection','~> 2.0.0'
-s.dependency 'GoogleMLKit/TextRecognition','~> 2.0.0'
+s.dependency 'GoogleMLKit/BarcodeScanning','~> 3.2.0'
+s.dependency 'GoogleMLKit/FaceDetection','~> 3.2.0'
+s.dependency 'GoogleMLKit/TextRecognition','~> 3.2.0'
 s.dependency 'Sybrin.iOS.Common','5.2.25'
 end
